@@ -20,4 +20,4 @@ git clone https://github.com/SK-BAAP-786/MAHTAB-71.git
 
 cd MAHTAB-71
 
-python ONE-FIRE2.py
+python ONE-FIRE4.py
